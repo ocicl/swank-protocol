@@ -2,9 +2,8 @@
 
 A low-level client for Swank
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/eudoxia0/swank-protocol.git   |
-| commit  | eb9f239  |
-| systems | swank-protocol |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/eudoxia0/swank-protocol.git |
+| commit  | 8ffd21c                                            |
+| systems | swank-protocol                                     |
+|---------+----------------------------------------------------|
